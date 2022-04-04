@@ -842,7 +842,7 @@ p.p-footer-sl{
 
 @media screen and (max-width: 970px){
     footer{
-        height: 13.5em;
+        height: 16em;
     }
     div.div-footer-logo, div.div-footer-text{
         display: block;
