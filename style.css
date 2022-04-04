@@ -824,6 +824,9 @@ p.p-footer-sl{
     }
     section.sec-main-rodadas{
         height: 70em;
+        width: 100%;
+
+        padding-left: 0em;
     }
     section.sec-main-grupos{
         border-right: none;
@@ -914,6 +917,16 @@ p.p-footer-sl{
     }
     p.p-time[p-time-abr]::after{
         content: attr(p-time-abr);
+    }
+    .tbl-sec-grupos .td-time{
+        font-size: 0.85em;
+    }
+    p.p-time{
+        margin-left: -1em;
+    }
+    span.span-tbl-status, i.icn-baixo, i.icn-cima, i.icn-null{
+        font-size: 0.6em;
+        text-align: right;
     }
     p.p-time > span{
         display: none;
