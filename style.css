@@ -931,6 +931,9 @@ p.p-footer-sl{
     p.p-time > span{
         display: none;
     }
+    div.div-main-switch{
+        margin-top: 3.5em;
+    }
     p.p-nome-jgd, td.td-pos-jgd{
         font-size: 0.8em;
     }
